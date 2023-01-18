@@ -1,0 +1,20 @@
+h1{
+    color: #00B843;
+}
+p{
+    line-height: 30px;
+    font-size: 18px;
+}
+.about button {
+    margin-left: 30%;
+    width: 150px;
+    background-color: #00b843;
+    border:0;
+}
+.about button:hover{
+    background-color: #08ce51; 
+}
+button a {
+    text-decoration: none;
+    
+}
